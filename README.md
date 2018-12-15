@@ -43,7 +43,7 @@ We are also setting a bindmount volume that links airflow home (/home/airflow) d
 9. Check the container state `docker ps`. If it's successful then visit localhost:8080 from your browser
 10. You'll see the admin dashboard of Airflow DAGs
 
-###$ Airflow Admin screen on visiting localhost:8080
+### Airflow Admin screen on visiting localhost:8080
 
 ![Airflow Admin screen](./screenshots/airflow-admin.png)
 
